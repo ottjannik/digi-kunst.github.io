@@ -12,4 +12,4 @@ An dieser Stelle veröffentlichen wir Informationen über [Digi-Kunst.nrw](https
 
 Bisher veröffentlicht: die [Handreichung für Einliefernde](https://digi-kunst.github.io/Handreichung/) (April 2023)
 
-[Handreichung für Einliefernde](./docs/Handreichung.md) (April 2023)
+[Handreichung für Einliefernde](./docs/Handreichung) (April 2023)

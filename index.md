@@ -10,6 +10,12 @@ has_toc: false
 
 An dieser Stelle veröffentlichen wir Informationen über [Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/), ein Konsortialprojekt der Digitalen Hochschule NRW unter Leitung der Robert Schumann Hochschule Düsseldorf.  
 
-Bisher veröffentlicht: die [Handreichung für Einliefernde](https://digi-kunst.github.io/Handreichung/) (April 2023)
+- [vorbereitende Handreichung für Einliefernde](./docs/Handreichung) (April 2023)
+- [Entwurf einer Archiv-Leitlinie für Digi-Kunst.nrw.](./docs/assets/2023-06-07_Archiv-Leitlinie_Digi-Kunst.nrw_Entwurf.pdf) (Juni 2023) Unsere Empfehlungen zu Definitionen und Grundsätzen, gedacht als Unterstützung bei der Erstellung einer eigenen Hochschul-Archivordnung.
 
-[Handreichung für Einliefernde](./docs/Handreichung) (April 2023)
+Demnächst finden sich hier zusätzlich Vorlagen zur Klärung von Fragen zu Nutzungsrechten und Lizenzierung, ebenso wie zu  Rechteinhaberschaft, Miturheber:innen und zur Rechteklärung von Fremdmaterial.
+
+
+
+---
+[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-08-02

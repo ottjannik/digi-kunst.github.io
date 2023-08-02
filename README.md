@@ -1,6 +1,6 @@
 # Digi-Kunst 
 
-Wir benutzen dieses GitHub-Repositorium, um Informationen über Digi-Kunst.nrw zu veröffentlichen
+Informationen über das DH-Konsortialprojekt Digi-Kunst.nrw.
 
 Die veröffentlichte Webseite ist über <https://digi-kunst.github.io/> erreichbar.
 

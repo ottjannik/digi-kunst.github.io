@@ -1,6 +1,8 @@
 ---
 title: Handreichung
-layout: home
+layout: default
+parent: home
+nav_order: 2
 ---
 
 # Handreichung

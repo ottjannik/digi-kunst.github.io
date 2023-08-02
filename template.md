@@ -1,7 +1,7 @@
 ---
 layout: home
 title: template
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Erste Überschrift

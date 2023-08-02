@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: docs.Digi-Kunst.nrw
+description: Informationen über Digi-Kunst.nrw
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://digi-kunst.github.io/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: #oben rechts
+  GitHub: https://github.com/Digi-Kunst/
+
+# External navigation links
+nav_external_links:
+  - title: Digi-Kunst.nrw
+    url: https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/
+    hide_icon: false # set to true to hide the external link icon - defaults to false

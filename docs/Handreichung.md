@@ -48,7 +48,7 @@ Weitere Informationen zu den wichtigsten Feldern finden sich unten unter dem Pun
 
 Dieses [Diagramm](./assets/2023-09-25_Datenmodellierung.pdf) zeigt in vereinfachter Form, wie die heterogenen Rohinformationen der unterschiedlichen Einliefernden in ein logisches Verhältnis gebracht und integriert werden, und in welchen Entitäten (Tabellen) und Attributen (Feldern) die einzelnen Metadaten erfasst und verfügbar gemacht werden.
 
-Im Zentrum steht das **Projekt**, meistens ein künstlerisches Werk. Es sind aber auch Vorträge oder Aufzeichnungen von anderen Veranstaltungen erfassbar. Das Projekt hat einen oder mehrere Titel, es lässt sich kategorisieren und inhaltlich beschreiben. 
+Im Zentrum steht das **Projekt**, meistens ein künstlerisches Werk. Es sind aber auch z.B. Aufzeichnungen von Veranstaltungen erfassbar. Das Projekt hat einen oder mehrere Titel, es lässt sich kategorisieren und inhaltlich beschreiben. 
 
 Projekte entstehen üblicherweise aus dem Zusammenhang eines Studiengangs oder einer Hochschuleinrichtung. Diese erfassen wir in der Entität **Organisationseinheit**.
 

@@ -12,7 +12,7 @@ An dieser Stelle stellen wir Informationen über [Digi-Kunst.nrw](https://www.rs
 
 ---
 Bisher veröffentlicht:
-- [vorbereitende Handreichung für Einliefernde](./docs/Handreichung) (April 2023)
+- [Handreichung für Einliefernde](./docs/Handreichung) (April 2023, letzte Aktualisierung September 2023)
 - [Entwurf einer Archiv-Leitlinie für Digi-Kunst.nrw.](./docs/assets/2023-06-07_Archiv-Leitlinie_Digi-Kunst.nrw_Entwurf.pdf) (Juni 2023) Unsere Empfehlungen zu Definitionen und Grundsätzen, gedacht als Unterstützung bei der Erstellung einer eigenen Hochschul-Archivordnung.
 
 Demnächst finden Sie hier Vorlagen zur Klärung von Fragen zu Nutzungsrechten und Lizenzierung.
@@ -20,4 +20,4 @@ Demnächst finden Sie hier Vorlagen zur Klärung von Fragen zu Nutzungsrechten u
 
 
 ---
-zuletzt aktualisiert am 2023-08-02 | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) 
+zuletzt aktualisiert am 2023-09-25 | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) 

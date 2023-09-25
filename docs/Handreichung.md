@@ -37,7 +37,7 @@ Weitere Informationen zu den wichtigsten Feldern finden sich unten unter dem Pun
 
 ### Weiterführende Lektüre
 
-- Nicht alle Dateitypen sind langzeitstabil. Hier findet sich eine Übersicht von der LZV.nrw-Initiative zu [gängigen Dateiformaten und deren Langzeitstabilität](https://www.lzv.nrw/dateiformate/). Die orangefarbene Schaltfläche blendet alle nicht-langzeitstabilen Dateiformate aus. 
+- Nicht alle Dateitypen sind langzeitstabil. Hier findet sich eine Übersicht der LZV.nrw-Initiative zu [gängigen Dateiformaten und deren Langzeitstabilität](https://www.lzv.nrw/dateiformate/). Die orangefarbene Schaltfläche blendet alle nicht-langzeitstabilen Dateiformate aus. 
 - Die (englischsprachige) NDSA [Levels of Digital Preservation Matrix](https://osf.io/3na96) gibt weiterführende Informationen zu den oben erwähnten grundlegenden Schritten zum Sichern digitaler Inhalte.
 - [nestor](https://www.langzeitarchivierung.de/Webs/nestor/DE/Publikationen/publikationen_node.html) bündelt deutschlandweit Wissen zum Thema Langzeitverfügbarkeit und veröffentlicht auf ihrer Webseite Ratgeber und Hinweise.
 - Weitere sehr gute und umfangreiche (englischsprachige) Ressourcen sind [Implement digital preservation](https://www.dpconline.org/digipres/implement-digipres) und
@@ -67,6 +67,10 @@ Das volle Datenmodell und die im System angelegten Metadaten-Felder werden spät
 ### Unterstützte Metadatenstandards
 
 Die in Digi-Kunst.nrw erfassten Informationen werden, wie im [Bericht des Vorprojekts](https://www.dh.nrw/kooperationen/Digi-Kunst.nrw%20%28Vorprojekt%29-63) erwähnt, in Metadatenaustauschformaten wie LIDO und MARC21 abgerufen werden können.
+
+### Infrastruktur
+
+Das [Strukturdiagramm](./assets/2023-08-04_Strukturdiagramm.pdf) veranschaulicht den logischen Aufbau der intendierten Projektinfrastruktur und zeigt die Zusammenhänge von System-Komponenten, Nutzer:innen, externen Institutionen und angebundenen Diensten.
 
 ---
 Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) und [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 

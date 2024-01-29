@@ -2,7 +2,7 @@
 title: Digi-Kunst-A
 layout: default
 parent: licences
-nav_order: 2
+nav_order: 1
 has_children: false
 has_toc: false
 ---

@@ -2,13 +2,13 @@
 title: Digi-Kunst-ABC
 layout: default
 parent: licences
-nav_order: 2
+nav_order: 3
 has_children: false
 has_toc: false
 ---
 
 
-## Digi-Kunst-ABC
+# Digi-Kunst-ABC
 
 Omnis eaque nesciunt magni dignissimos. Tempore voluptatem perferendis accusamus. Blanditiis ullam qui neque sequi vero atque ducimus similique. Repudiandae cumque aperiam quisquam. Ut porro nisi quas earum est.
 

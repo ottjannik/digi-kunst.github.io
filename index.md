@@ -24,4 +24,4 @@ Demnächst finden Sie hier Vorlagen zur Klärung von Fragen zu Nutzungsrechten u
 
 
 ---
-zuletzt aktualisiert 2023-09-26 | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) 
+zuletzt aktualisiert 2024-01-29 | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) 

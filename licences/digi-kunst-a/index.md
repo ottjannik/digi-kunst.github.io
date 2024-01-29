@@ -1,12 +1,12 @@
 ---
-title: Digi-Kunst-ABC
+title: Digi-Kunst-A
 layout: default
-nav_order: 1
+nav_order: 2
 has_children: true
 has_toc: false
 ---
 
-Digi-Kunst-ABC
+Digi-Kunst-A
 
 
 ---

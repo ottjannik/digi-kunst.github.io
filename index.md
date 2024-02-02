@@ -4,6 +4,7 @@ layout: default
 nav_order: 1
 has_children: true
 has_toc: false
+last_modified_date: 2024-02-02
 ---
 
 # Digi-Kunst.nrw
@@ -20,8 +21,3 @@ Seit dem 1. November 2022 läuft das dreijährige Hauptprojekt. In diesem Rahmen
 - [Präsentation](./docs/assets/2023-09-25_NFDI_Leipzig.pdf) bei der NFDI4Culture Konferenz “PERFORMANCE – PRODUKTIONEN – DATEN. Modellierung und Vermittlung ereignisbezogener Informationen” (September 2023)
 
 Demnächst finden Sie hier Vorlagen zur Klärung von Fragen zu Nutzungsrechten und Lizenzierung.
-
-
-
----
-zuletzt aktualisiert 2024-01-29 | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) 

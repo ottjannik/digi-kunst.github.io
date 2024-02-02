@@ -3,6 +3,7 @@ title: Handreichung
 layout: default
 parent: home
 nav_order: 2
+last_modified_date: 2023-09-25
 ---
 
 # Handreichung
@@ -74,5 +75,3 @@ Das [Strukturdiagramm](./assets/2023-08-04_Strukturdiagramm.pdf) veranschaulicht
 
 ---
 Diese Handreichung wird kontinuierlich erweitert. Ansprechpartner an den Konsortialhochschulen werden per E-Mail über Updates informiert. [René Bialik](https://www.folkwang-uni.de/home/hochschule/personen/mitarbeiterinnen-a-z/vollanzeige/personen-detail/adm/rene-bialik/) und [Christian Sievers](https://www.khm.de/personen_hochschule/id.27806.christian-sievers/) freuen sich über Fragen und Anregungen. 
-
-[Digi-Kunst.nrw](https://www.rsh-duesseldorf.de/musikhochschule/wir-ueber-uns/digi-kunstnrw/) | [Impressum](https://www.rsh-duesseldorf.de/service/datenschutz-impressum) | zuletzt aktualisiert: 2023-09-25

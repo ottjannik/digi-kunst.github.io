@@ -9,4 +9,11 @@ search_enabled: true
 aux_links: #oben rechts
   GitHub: https://github.com/Digi-Kunst/
 
+#logo: "https://goodlogo.com/images/logos/small/zwitsal_logo_3829.gif" #works ok
+
 favicon_ico: "/assets/images/favicon.ico"
+
+last_edit_time_format: "%e %b %Y"
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+
+

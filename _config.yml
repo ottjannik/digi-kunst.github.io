@@ -8,3 +8,5 @@ search_enabled: true
 
 aux_links: #oben rechts
   GitHub: https://github.com/Digi-Kunst/
+
+favicon_ico: "/assets/images/favicon.ico"

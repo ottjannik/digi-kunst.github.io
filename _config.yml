@@ -23,6 +23,7 @@ email: sarah.youssef@rsh-duesseldorf.de
 description: >
   Digi-Kunst.nrw-Docs ist die offizielle Informationsseite von Digi-Kunst.nrw.
 url: "https://docs.digi-kunst.nrw"
+baseurl: ""
 
 # Build settings
 theme: minima

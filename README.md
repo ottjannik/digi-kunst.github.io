@@ -1,6 +1,6 @@
-# Digi-Kunst 
+# Digi-Kunst Docs
 
-Informationen über das DH-Konsortialprojekt Digi-Kunst.nrw.
+Dokumentation des [DH](https://www.dh.nrw/)-Konsortialprojekts Digi-Kunst.nrw.
 
-Die veröffentlichte Webseite ist über <https://digi-kunst.github.io/> erreichbar.
+Die veröffentlichte Webseite ist über <https://docs-digi-kunst.nrw/> erreichbar.
 

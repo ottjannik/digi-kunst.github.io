@@ -56,12 +56,12 @@ Fon: +49 211 49 18 179
 
 **Julia König**  
 Kunsthochschule für Medien Köln  
-Fon: +49 211 20 189 170  
+Fon: +49 221 20 189 170  
 [julia.koenig@khm.de](mailto:julia.koenig@khm.de)
 
 **Jannik Ott**  
 Kunsthochschule für Medien Köln  
-Fon: +49 211 20 189 171  
+Fon: +49 221 20 189 171  
 [jannik.ott@khm.de](mailto:jannik.ott@khm.de)
 
 ----

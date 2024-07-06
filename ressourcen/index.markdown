@@ -28,7 +28,4 @@ Links zu externen Ressourcen
 
 [Lizenzen](/ressourcen/lizenzen)
 
-- [Digi-Kunst-A+B+C (Entwurf)](/ressourcen/lizenzen/digi-kunst-a+b+c-1.0)
-
-[Rechtliches (Formulare und Hilfestellungen)](/ressourcen/formulare_und_rechtliche_hilfestellungen)\
-Informationen und Vorlagen zur Klärung von Lizenzierung und Nutzungsrechten
+- [Digi-Kunst-A+B+C (Entwurf)](/ressourcen/lizenzen/digi-kunst-a+b+c-1.0-entwurf)

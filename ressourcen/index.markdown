@@ -17,7 +17,7 @@ Im Rahmen des Projekts veröffentlichte Materialien und Dokumente.
 Ein Überblick der prioritär einzuliefernden Datenquellen an den Hochschulen.
 
 [**How-To-Guides für Einliefernde an den Hochschulen**](/ressourcen/how-to-guides-fuer-einliefernde)\
-Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicherung und zur Vorstrukturieren der Daten
+Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicherung und zur Vorstrukturieren der Daten.
 
 [**Häufig gestellte Fragen**](/ressourcen/FAQ)\
 Häufig gestellte Fragen zum Projekt.
@@ -29,4 +29,4 @@ Zentrale Begriffe; in kurzen Texten erklärt.
 Links zu externen Ressourcen zu den Themen Langzeitverfügbarkeit und Erfassung.
 
 [**Lizenzen**](/ressourcen/lizenzen)\
-Ein Überblick, welche Lizenzen auf Dateien vergeben werden können. Ein besonderes Augenmerk liegt hierbei auf der von Digi-Kunst.nrw selbt entwickelten Modularlizenz.
+Informationen zur von Digi-Kunst.nrw entwickelten Modularlizenz für Dateien.

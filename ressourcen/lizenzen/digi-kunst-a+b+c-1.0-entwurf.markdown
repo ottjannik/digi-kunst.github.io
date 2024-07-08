@@ -20,7 +20,7 @@ Zusätzlich räumt der/die Lizenzgeber:in der Hochschule an dem Werk oder "Proje
 
 Sofern für Zwecke der öffentlichen Zugänglichmachung eine Umwandlung bestehender Dateiformate in andere Dateiformate erforderlich ist und diese Umwandlung eine Bearbeitung darstellen sollte, räumt der/die Lizenzgeber:in der Hochschule für diese Zwecke die dafür erforderlichen Bearbeitungsrechte ein.
 
-Die Hochschule ist berechtigt, dieses Nutzungsrecht auch im Rahmen des Projekts [Digi-Kunst.nrw](https://www.digi-kunst.nrw/) zu nutzen und den beteiligten Projektpartnern (andere Kunst- und Musikhochschulen, technische Partner wie z.B. Rechenzentren) für die Zwecke von Digi-Kunst.nrw entsprechende einfache Nutzungsrechte einzuräumen. \
+Die Hochschule ist berechtigt, dieses Nutzungsrecht auch im Rahmen des Projekts Digi-Kunst.nrw zu nutzen und den beteiligten Projektpartnern (andere Kunst- und Musikhochschulen, technische Partner wie z.B. Rechenzentren) für die Zwecke von Digi-Kunst.nrw entsprechende einfache Nutzungsrechte einzuräumen. \
 <sub>(Anmerkung: der Text entspricht bis hier der Lizenz A+B: Langzeitverfügbarkeit und Veröffentlichung)</sub>
 
 ----

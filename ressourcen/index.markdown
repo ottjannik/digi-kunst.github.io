@@ -23,7 +23,7 @@ Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicheru
 Häufig gestellte Fragen zum Projekt.
 
 [**A bis Z**](/ressourcen/a-bis-z)\
-Alle wichtigen Begriffe aus dem Projekt – in kurzen Texten erläutert.
+Alle wichtigen Begriffe in kurzen Texten erklärt.
 
 [**Weiterführende Informationen**](/ressourcen/weiterfuehrende-informationen)\
 Links zu externen Ressourcen zu den Themen Langzeitverfügbarkeit und Erfassung.

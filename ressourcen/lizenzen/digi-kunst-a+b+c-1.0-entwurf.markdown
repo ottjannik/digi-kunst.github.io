@@ -4,8 +4,12 @@ title: Digi-Kunst-A+B+C 1.0 (Entwurf)
 order: 2.9.3
 ---
 
+----
+
 URI: [https://docs.digi-kunst.nrw/resolver/digi-kunst-a+b+c-1.0-entwurf](https://docs.digi-kunst.nrw/resolver/digi-kunst-a+b+c-1.0-entwurf)  
 <sub>Anmerkung: Diese Lizenz sollte nicht referenziert werden und dient lediglich Anschauungszwecken.</sub>
+
+----
 
 ### Die Hochschule erwirbt
 

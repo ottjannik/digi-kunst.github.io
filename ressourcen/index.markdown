@@ -23,10 +23,10 @@ Konkrete Anleitungen, unter anderem für vorbereitende Arbeiten zur Datensicheru
 Häufig gestellte Fragen zum Projekt.
 
 [**A bis Z**](/ressourcen/a-bis-z)\
-Zentrale Begriffe in kurzen Texten erklärt.
+Zentrale Begriffe; in kurzen Texten erklärt.
 
 [**Weiterführende Informationen**](/ressourcen/weiterfuehrende-informationen)\
 Links zu externen Ressourcen zu den Themen Langzeitverfügbarkeit und Erfassung.
 
 [**Lizenzen**](/ressourcen/lizenzen)\
-Ein Überblick, welche Lizenzen auf Dateien vergeben werden können. Ein besonderes Augenmerk liegt hierbei auf der von Digi-Kunst.nrw selbt entwickelte Modullizenz.
+Ein Überblick, welche Lizenzen auf Dateien vergeben werden können. Ein besonderes Augenmerk liegt hierbei auf der von Digi-Kunst.nrw selbt entwickelten Modularlizenz.

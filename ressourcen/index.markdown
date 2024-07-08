@@ -28,5 +28,5 @@ Alle wichtigen Begriffe aus dem Projekt – in kurzen Texten erläutert.
 [**Weiterführende Informationen**](/ressourcen/weiterfuehrende-informationen)\
 Links zu externen Ressourcen zu den Themen Langzeitverfügbarkeit und Erfassung.
 
-[**Lizenzen**](/ressourcen/lizenzen)
+[**Lizenzen**](/ressourcen/lizenzen)\
 Ein Überblick, welche Lizenzen auf Dateien vergeben werden können. Ein besonderes Augenmerk liegt hierbei auf der von Digi-Kunst.nrw selbt entwickelte Modullizenz.

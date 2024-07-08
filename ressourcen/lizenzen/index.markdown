@@ -14,7 +14,7 @@ Die Lizenzstufen können für ein ganzes Werk bzw. Projekt oder granular für ei
 
 Vereinfacht erklärt bedeutet Lizenzstufe A, dass die eigene Hochschule die Dateien nur speichern, aber nicht veröffentlichen darf. Die Stufen A+B und A+B+C ermöglichen unterschiedlich hohe Grade der Veröffentlichung. Es muss mindestens eine der Lizenzen A, oder A+B oder A+B+C vergeben werden. 
 
-Die Rechteinhaber:innen bestätigen außerdem, dass alle Personen genannt worden sind, die mit ihnen gemeinsam Rechte an dem Werk haben ([§ 8 UrhG](https://www.gesetze-im-internet.de/urhg/__8.html)) oder Urheber verbundener Werke ([§ 9 UrhG](https://www.gesetze-im-internet.de/urhg/__9.html)). Zudem bestätigen sie, dass, wenn Fremdmaterial Dritter verwendet wurde, sie die Rechte an diesem Material rechtskräftig für die oben genannten Nutzungen erworben haben. 
+Die Rechteinhaber:innen bestätigen außerdem, dass alle Personen genannt worden sind, die mit ihnen gemeinsam Rechte an dem Werk haben ([§ 8 UrhG](https://www.gesetze-im-internet.de/urhg/__8.html)) oder Urheber verbundener Werke ([§ 9 UrhG](https://www.gesetze-im-internet.de/urhg/__9.html)) sind. Zudem bestätigen sie, dass, wenn Fremdmaterial Dritter verwendet wurde, sie die Rechte an diesem Material rechtskräftig für die oben genannten Nutzungen erworben haben. 
 
 ----
 

@@ -7,6 +7,8 @@ order: 2.6
 * TOC
 {:toc}
 
+----
+
 ### Wofür braucht es ein gemeinsames Archivportal für die Kunst- und Musikhochschulen in Nordrhein-Westfalen? 
 
 Die Hochschulen sind integraler Bestandteil des künstlerischen Erbes des Landes Nordrhein-Westfalen. Sie sind Ausbildungsstätten für den nationalen und internationalen künstlerischen Nachwuchs, sie sind Orte für Symposien, Tagungen und Vorträge, sie sind offene Denkräume. In allen Disziplinen der Kunst fallen heute digitale Daten an, die drohen, verloren zu gehen, wenn sie nicht erschlossen, gesichert und in die Langzeitverfügbarkeit überführt werden. Digi-Kunst.nrw soll diesen Prozess als zentrale Anlaufstelle für die Konsortialhochschulen übernehmen und die digitalen Bestände zugänglich machen.
@@ -65,5 +67,3 @@ Alle Nutzer:innen und Einliefernde bekommen individuelle Zugänge. Bitte wenden 
 ### Wo kann man die Werke und Projekte sehen? 
 
 Die Präsentationsplattform wird derzeit entwickelt und geht voraussichtlich 2025 online.
-
-----

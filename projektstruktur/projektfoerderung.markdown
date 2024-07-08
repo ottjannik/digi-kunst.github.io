@@ -8,7 +8,7 @@ Digi-Kunst.nrw wird durch das [Ministerium für Kunst und Kultur des Landes Nord
 
 Zu den Kooperationspartnern innerhalb der Digitalen Hochschule NRW gehören unter anderem:
 
-* FDM.nrw ( Landesinitiative für Forschungsdatenmanagement NRW)
+* [FDM.nrw](https://fdm-nrw.coscine.de/#/) ( Landesinitiative für Forschungsdatenmanagement NRW)
 * [RDS.nrw](https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/nordrhein-westfalen/hochschuluebergreifende-infrastrukturen/research-data-storage-rds/) (Research Data Storage NRW)
 * [LZV.nrw](https://lzv.nrw/) (Landesinitiative Langzeitverfügbarkeit)
 * weitere Universitäten und Fachhochschulen in Nordrhein-Westfalen, die an digitalen Initiativen und Projekten beteiligt sind

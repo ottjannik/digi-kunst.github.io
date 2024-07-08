@@ -26,8 +26,8 @@ Digi-Kunst.nrw-Docs is a lightweight [Jekyll](https://jekyllrb.com/) environment
 ## Struktur | Structure
 
 **.github/workflows**  
-Digi-Kunst.nrw-Docs verwendet einen einstellbaren Build-Prozess via [GitHub Actions](https://github.com/features/actions). In der beigefügten jekyll.yaml kann dieser Build-Prozess gesteuert werden.  
-Digi-Kunst.nrw-Docs uses a customizable build process via [GitHub Actions](https://github.com/features/actions). This build process can be controlled in the attached jekyll.yaml.
+Digi-Kunst.nrw-Docs verwendet einen einstellbaren Build-Prozess via [GitHub Actions](https://github.com/features/actions). In der beigefügten jekyll.yml kann dieser Build-Prozess gesteuert werden.  
+Digi-Kunst.nrw-Docs uses a customizable build process via [GitHub Actions](https://github.com/features/actions). This build process can be controlled in the attached jekyll.yml.
 
 **_includes**  
 Dieser Ordner enthält Komponenten, die die [Liquid-Template-Sprache](https://shopify.github.io/liquid/basics/introduction/) verwenden. Diese Komponenten können in das Layout integriert werden.  

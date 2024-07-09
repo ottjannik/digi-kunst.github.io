@@ -106,7 +106,7 @@ Beschreibende Informationen, die zur Klassifikation, Erschließung und Verwaltun
 ----
 
 ### Normdaten
-Normdaten werden für die eindeutige Identifizierung von Personen, Körperschaften, Geografika, Schlagwörtern und Werken benutzt. Sie helfen bei der Vernetzung unterschiedlicher Informationsressourcen und bei der Suche. Digi-Kunst benutzt Normdaten von GND, Wikidata, AAT, VIAF, LCCN, OrcID und weiteren Providern.
+Normdaten werden für die eindeutige Identifizierung von Personen, Körperschaften, Geografika, Schlagwörtern und Werken benutzt. Sie helfen bei der Vernetzung unterschiedlicher Informationsressourcen und bei der Suche. Digi-Kunst benutzt Normdaten von GND, Wikidata, AAT, VIAF, LCCN, OrcID und weiteren Providern. Eine gute Einführung findet sich auf dem [Wiki der DNB](https://wiki.dnb.de/plugins/servlet/mobile?contentId=322905215#content/view/322905215).
 
 ----
 

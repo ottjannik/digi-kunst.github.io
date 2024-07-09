@@ -13,7 +13,7 @@ Die Aufgabe von Digi-Kunst ist es, die multimedialen künstlerischen Inhalte der
 Deshalb benutzt Digi-Kunst.nrw als zentrale Verzeichnungseinheit den Begriff **Projekt**. Dies erlaubt eine größere Flexibilität und ermöglicht es, die ganze Bandbreite der künstlerischen Aktivitäten an den Hochschulen zu erfassen. Ein Datensatz zu einem Projekt enthält in der Regel einen Titel und die Beschreibung eines Projekts. Hier wird es kategorisiert und verschlagwortet, es wird die einliefernde Hochschule und ggf. deren Organisationseinheit erfasst.  
 Als zweite zentrale Einheit bilden **Ereignisse** die historische Entwicklung eines Projekts ab:
 
-* Es gibt viele [Typen von Ereignissen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht überhaupt erst ein Kunstwerk, später gibt es dann oft weitere Ereignisse wie Aufführung, Ausstellung oder Filmpremiere.
+* Es gibt viele [Typen von Ereignissen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/ereignistypen): Mit dem Ereignis der geistigen Schöpfung oder der Herstellung entsteht überhaupt erst ein Kunstwerk, später gibt es dann oft weitere Ereignisse wie Aufführung, Ausstellung oder Premiere.
 * Ereignisse haben in der Regel einen Beginn und ein Ende und finden an bestimmten Orten statt.
 * Ereignisse werden von verschiedenen Akteur:innen durch- oder aufgeführt, wodurch sich rechtliche Ansprüche ableiten können.
 * Bei manchen Ereignissen wird bestimmte Software und Equipment verwendet.
@@ -84,9 +84,9 @@ flowchart TB;
 
 Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an. Dafür verwenden wir eine selbst erstellte Taxonomie, in der die Kategorien in einem hierarchischen Kontext abgebildet werden. Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ vergeben. In unserem System taucht diese Projektkategorie dann wie folgt auf:
 
-<div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span> / <span style="color: blue">Design</span> / <span style="color: blue">Industrial Design</span></div>
+<div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span>/<span style="color: blue">Design</span>/<span style="color: blue">Industrial Design</span></div>
 
-Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch z. B. unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine noch bessere Auffindbarkeit zu gewährleisten.  
+Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch z. B. unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.  
 Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, auch Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien Digi-Kunst.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektkategorien) finden.  
 Jede Projektkategorie enthält mindestens auch noch den Link zu einem Begriff aus der [Wikidata](https://www.wikidata.org/w/index.php?title=Wikidata:Main_Page&uselang=de), oft sogar ein ganzes Set von Links zu großen kontrollierten Vokabularen: dem Vokabular der Deutschen Nationalbibliothek, dem Vokabular des Getty Art & Architecture Thesaurus und dem Vokabular von Filmportal.de.
 
@@ -148,7 +148,7 @@ Ein Projekt bekommt automatisch eine Digi-Kunst-Signatur. Diese setzt sich zusam
 
 * Der Kennzeichnung „Digi-Kunst“
 * Einer automatischen Nummer, die fortlaufend die Projekte im System zählt
-* Einem dreistelligen Identifikator für die einliefernde Hochschule: *FUK* für die Folkwang Universität der Künste, *DET* für die Hochschule für Musik Detmold, *HMT* für die Hochschule für Musik und Tanz Köln, *KHM* für die Kunsthochschule für Medien Köln und *RSH* für die Robert Schumann Hochschule Düsseldorf.
+* Einem dreistelligen Identifikator für die einliefernde Hochschule: *FUK* für die Folkwang Universität der Künste, *DET* für die Hochschule für Musik Detmold, *HMT* für die Hochschule für Musik und Tanz Köln, *KHM* für die Kunsthochschule für Medien Köln und *RSH* für die Robert Schumann Hochschule Düsseldorf
 * Einer weiteren automatischen Nummer, die fortlaufend die Projekte pro einliefernder Hochschule zählt
 
 Eine vollständige Signatur könnte also wie folgt aussehen: **Digi-Kunst-9876-KHM-5432**.
@@ -178,7 +178,7 @@ Zu einem Projekt kann eine projektspezifische, einmalig verwendbare Inhaltswarnu
 
 ## Projekt: Nutzungsrechte
 
-Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die Langzeitverfügbarkeit überführen, es öffentlich zugänglich machen und es gegebenenfalls an andere Portale für Kultur und Wissen weitergeben kann, benötigt sie dafür die Nutzungsrechte von den Rechteinhaber:innen.  
+Damit eine einliefernde Hochschule die Digitalen Objekte eines Projekts in die Langzeitverfügbarkeit überführen, sie öffentlich zugänglich machen und sie gegebenenfalls an andere Portale für Kultur und Wissen weitergeben kann, benötigt sie dafür die Nutzungsrechte von den Rechteinhaber:innen.  
 Diese können auf zweierlei Arten eingeholt werden:
 
 * Zum einen kann bereits ein Nutzungsvertrag zwischen den Rechteinhaber:innen und der Hochschule bestehen, mit welchem bereits verschiedene Erhaltungsschritte erlaubt sind. Zum Beispiel kann es sein, dass die Archivierung eines Projekts bereits Bestandteil einer vorherigen Vereinbarung war. In diesen Fällen ist zu klären, ob Digi-Kunst.nrw bereits verschiedene Arbeitsschritte ausführen darf, beispielsweise die Projekte zu verzeichnen und die Dateien in die Langzeitverfügbarkeit zu überführen.
@@ -284,29 +284,29 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 | Spätestes Geburtsdatum | Latest Birth Date | 0-1 | Das späteste bekannte Geburtsdatum in ISO 8601 |
 | Frühestes Sterbedatum | Earliest Death Date | 0-1 | Das früheste bekannte Sterbedatum in ISO 8601 |
 | Spätestes Sterbedatum | Latest Death Date | 0-1 | Das späteste bekannte Sterbedatum in ISO 8601 |
-| Wirkungsbeginn | Begin of Activity | 0-1 | Für Gruppen und Körperschaften deren Wirkungsbeginn in ISO 8601 |
-| Wirkungsende | Enf of Activity | 0-1 | Für Gruppen und Körperschaften deren Wirkungsende in ISO 8601 |
+| Wirkungsbeginn | Begin of Activity | 0-1 | Für Gruppen und Körperschaften; deren Wirkungsbeginn in ISO 8601 |
+| Wirkungsende | Enf of Activity | 0-1 | Für Gruppen und Körperschaften; deren Wirkungsende in ISO 8601 |
 | Geburtsort | Place of Birth | 0-1 | Ein Geburtsort aus der Entität Orte |
 | Sterbeort | Place of Death | 0-1 | Ein Sterbeort aus der Entität Orte |
 | Wirkungsort | Place of Activity | 0-u | Ein oder mehrere Wirkungsorte |
-| Gründungsort | Place of Activity | 0-u | Für Gruppen und Körperschaften deren Gründungsorte |
-| Auflösungsort | Place of Activity | 0-u | Für Gruppen und Körperschaften deren Auflösungsorte |
+| Gründungsort | Place of Activity | 0-1 | Für Gruppen und Körperschaften; deren Gründungsort |
+| Auflösungsort | Place of Activity | 0-1 | Für Gruppen und Körperschaften; deren Auflösungsort |
 | Deutsche Kurzbiografie | German Short Biography | 0-1 | Die deutsche Kurzbiografie der Person, Gruppe oder Körperschaft |
 | Englische Kurzbiografie | English Short Biography | 0-1 | Die englische Kurzbiografie der Person, Gruppe oder Körperschaft |
 | Deutscher Kommentar | German Commentary | 0-1 | Ein deutscher Kommentar. Freitext. |
-| Englischer Kommentar | English Commentary | 0-1 ] | Ein entsprechender englischer Kommentar. Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen. |
+| Englischer Kommentar | English Commentary | 0-1  | Ein entsprechender englischer Kommentar. Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen. |
 | Interner Kommentar | Internal Commentary | 0-1 | Ein Team-interner Kommentar |           
 | Beruf und Tätigkeit | Profession and Activity | 0-u | Eine oder mehrere feste Rollen aus der entsprechenden Entität (s. u.)|
 | OrcID | OrcID | 0-1 | Ein Orcid-Identifier der Person |
-| GND-ID | GND ID | 0-1 | Link zu einem GND-Normdatensatz zur Akteur:in |
-| VIAF-ID | VIAF ID | 0-1 | Link zu einem VIAF-Normdatensatz zur Akteur:in |
-| LCCN-ID | LCCN ID | 0-1 | Link zu einem Normdatensatz zur Akteur:in in der Library of Congress |
-| Wikidata-ID | Wikidata ID | 0-1 | Link zu einem Wikidata-Satz zur Akteur:in |
+| GND-ID | GND Link | 0-1 | Link zu einem GND-Normdatensatz zur Akteur:in |
+| VIAF-ID | VIAF Link | 0-1 | Link zu einem VIAF-Normdatensatz zur Akteur:in |
+| LCCN-ID | LCCN Link | 0-1 | Link zu einem Normdatensatz zur Akteur:in in der Library of Congress Authority File |
+| Wikidata-ID | Wikidata Link | 0-1 | Link zu einem Wikidata-Satz zur Akteur:in |
 | Andere Normdaten | Other Authority Files | 0-u | Weitere Normdatenlinks |
 | Link zur Webseite der Akteur:in | Link to Actor Page | 0-u | Links zu externen Webseiten der Akteur:innen |
-| Kontakt (E-Mail) | Contact (E-Mail) | 0-u | Eine oder mehrere mögliche Kontaktemails. Diese werden nicht mit in die Langzeitverfügbarkeit überführt |
-| Kontakt (Telefon) | Contact (Phone) | 0-u | Ein oder mehrere mögliche Telefonkontakte. Diese werden nicht mit in die Langzeitverfügbarkeit überführt |
-| Kontakt (Postanschrift) | Contact (Postal Address) | 0-1 | Eine mögliche Postanschrift. Diese wird nicht mit in die Langzeitverfügbarkeit überführt |
+| Kontakt (E-Mail) | Contact (E-Mail) | 0-u | Eine oder mehrere mögliche Kontaktemails. Diese werden nicht mit in die Langzeitverfügbarkeit überführt. |
+| Kontakt (Telefon) | Contact (Phone) | 0-u | Ein oder mehrere mögliche Telefonkontakte. Diese werden nicht mit in die Langzeitverfügbarkeit überführt. |
+| Kontakt (Postanschrift) | Contact (Postal Address) | 0-1 | Eine mögliche Postanschrift. Diese wird nicht mit in die Langzeitverfügbarkeit überführt. |
 
 Innerhalb eines Ereignisses kann ein:e Akteur:in mehrere Rollen haben. Eine Rolle hat einen deutschen und einen englischen Namen und einen Wikidata-Link. Zusätzlich können Rollen auch einen rollenspezifischen GND-Link und einen „Getty Art and Architecture Thesaurus“-Link haben. Zur besseren Auffindbarkeit von Akteur:innen kann eine Rolle auch noch mit deutschen und englischen Synonymen angereichert werden. Eine Übersicht, welche Rollen verwendbar sind, finden sie in der [Rollen-Taxonomie](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/rollen).
 
@@ -334,8 +334,8 @@ In einem Ereignis können verschiedene Arten von Equipment & Software zum Einsat
 | Hersteller | Producer |  | 0-1 | Freitext |
 | Equipmentart | Equipment Type | Equimentart | 1 | Auswahlliste , z.b. Mikrofon, Mischpult, Verstärker, Filmkamera, Fotokamera, Videokamera, 3D-Scanner, 3D-Drucker, SBC, Software, Zubehör (allgemein), Audiorecorder, Licht, Aufnahmegerät (allgemein) |
 | Deutsche Beschreibung	 | German Description |  | 0-1	| Freitext |
-| Englische Beschreibung	 | English Description |  | 0-1	| Freitext |
-| Normdatei	 | Authority File |  | 0-u	| Wikidata-ID |
+| Englische Beschreibung | English Description |  | 0-1	| Freitext |
+| Normdatei | Authority File |  | 0-u	| z. B. Wikidata-ID |
 
 ----
 
@@ -353,13 +353,16 @@ In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. D
 | Besitzer:in | Owner | 0-u | Ein oder mehrere Akteur:innen aus der Akteur:in-Entität |
 | Eigentümer:in | Legal Rights Holder | 0-u | Ein oder mehrere Akteur:innen aus der Akteur:in-Entität |
 | Provenienz | Provenance | 0-1 | Ein Freitextfeld zur Provenienzbeschreibung |
-| Deutsche Beschreibung | German Description | 0-1 | Eine Beschreibung im Freitext. Pflicht, wenn die englische Beschreibung angegeben wurde |
-| Englische Beschreibung | English Description | 0-1 | Eine Beschreibung im Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen. |
-| Deutscher Kommentar | German Commentary | 0-1 | Ein deutscher Kommentar im Freitext|
+| Deutsche Beschreibung | German Description | 0-1 | Eine Beschreibung im Freitext |
+| Englische Beschreibung | English Description | 0-1 | Eine Beschreibung im Freitext |
+| Deutscher Kommentar | German Commentary | 0-1 | Ein deutscher Kommentar im Freitext |
 | Englischer Kommentar |English Commentary | 0-1 | Ein englischer Kommentar im Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen. |
 | Klassifizierendes Schlagwort | Classification Keyword to Physical Object | 0-u | Ein oder mehrere Schlagworte aus der Schlagwort-Entität, die Objekte bezeichnen, z. B. „Stuhl“, „Bühne“, „Sockel“, etc. |
 | Materialschlagwort | Material Keyword | 0-u | Ein oder mehrere Schlagworte aus einer separaten Entität, um Materialien zu bezeichnen, z. B. „Polyurethan“, „Sand“, „Wachs“, „Kabel“ |
-| Maße	| Measurements | 0-1 | Ein Freitextfeld, in das Maße eingetragen werden können |		
+| Technischer Kommentar (deutsch) | Technique [German] | 0-1 | Freitext. Verwendete künstlerische Technik, z.B. „C-Print auf Alu Dibond“, „Aquarell auf Hahnemühle 300g“, „Monotypie und Bleistift“, etc. |
+| Technischer Kommentar (englisch) | Technique [English] | 0-1 | Freitext. Es wird darauf hingewiesen, wenn möglich, beide Felder auszufüllen. |
+| Technikschlagwort | Technique Keyword | 0-u | Verwendete künstlerische Technik (Wikidata-Schlagwort) |
+| Maße	| Measurements | 0-1 | Ein Freitextfeld, in das Maße eingetragen werden können. |		
 | Erhaltungszustand (deutsch) | Conservation State (German) | 0-1 | Eine deutsche Beschreibung des Erhaltungszustands des Objekts. |
 | Erhaltungszustand (englisch) | Conservation State (English) | 0-1 | Eine englische Beschreibung des Erhaltungszustands des Objekts. Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen.|
 
@@ -397,11 +400,11 @@ Zu einem Informationsträger können die folgenden Informationen erfasst werden:
 | Maße                         | Measurements                 | 0-1 | Freitext |
 | Materialschlagwort           | Material Keyword             | 0-u | Verzeichnung über Schlagwort-Entität|
 | Erhaltungszustand (deutsch)  | Conservation State (German)  | 0-1 | z.B. im Original vorhanden, zerstört, verschollen |
-| Erhaltungszustand (englisch) | Conservation State (English) | 0-1 ||
+| Erhaltungszustand (englisch) | Conservation State (English) | 0-1 | Ein entsprechender englischer Eintrag |
 | Aufbewahrungsort | Depository | 0-1 | Ein Ort aus der Orte-Entität. Der derzeitige oder letztbekannte Aufbewahrungsort |
 | Informationsträgereigenschaft | Information Storage Medium Property | 0-u | Eine Auswahl aus der Entität "Informationsträgereigenschaft", z. B. „Bildfrequenz“, „Abspielgeschwindigkeit“ oder „Tonformat“ |
 | Informationsträgereigenschaft-Wert | Information Storage Medium Property Value | [1] | Zu jeder Auswahl ein dazugehöriger Wert |
-| Normdatei | Authority File | 0-u | Ein Normdatenlink zum Informationsträger |								
+| Normdatei | Authority File | 0-u | Ein oder mehrere Normdatenlinks zum Informationsträger |								
 | Kompilation | Compilation | 0/1 | Eine Angabe, ob der Informationsträger mehrere Projekte enthält. Entweder "ja", "nein" oder "keine Aussage" |
 | Kompilationstitel | Compilation Title | [0-1] | Der Name dieser Kompilation |
 | Kompilations-Reihennummer | Compilation Series Number | [0-1] | Die entsprechende Reihennummer |									
@@ -420,9 +423,9 @@ Digi-Kunst.nrw definiert ein Digitales Objekt als eine Datei oder ein Dateibünd
   * **Optional: Was ist ein Schlagwort, das den Inhalt der Datei beschreibt?** Aus was für einem Objekt besteht die Datei, bzw. was „ist“ die Datei: ein Poster, ein Trailer, eine Ausstellungsansicht, ein Musikkanal?
   * **Handelt es sich bei der Datei um ein Dateipaket oder nicht?**
   * **Bei Code: Welche Systemvoraussetzungen sind notwendig, damit das Programm ausgeführt werden kann?**
-  * **Erhaltungstyp** Worum handelt es sich bei der Datei in einem langzeitarchivarischen Sinn? Um einen "Preservation Master" (ein Original oder eine nach bestimmten Richtlinien hergestellte Kopie), um einen "Modified Master" (meist eine bereits langzeitstabile Kopie, von der besser Nutzerformate erstellt werden können) oder um eine "Derivative Copy" (ein Nutzerformat)?
-  * **Die wievielte Nutzerkopie dieser Datei ist es?**
-  * **Welchen Urheberrechts- und Lizenzstatus hat die Datei?** Neben unseren eigenen Lizenzen können den Dateien auch die Lizenzen von Creative Commons verliehen werden. Weitere Informationen zu den Auswahlmöglichkeiten erhalten sie auf der Seite [**Lizenzen**](/ressourcen/lizenzen/)
+  * **Erhaltungstyp:** Worum handelt es sich bei der Datei in einem langzeitarchivarischen Sinn? Um einen "Preservation Master" (ein Original oder eine nach bestimmten Richtlinien hergestellte Kopie), um einen "Modified Master" (meist eine bereits langzeitstabile Kopie, von der besser Nutzerformate erstellt werden können) oder um eine "Derivative Copy" (ein Nutzerformat)?
+  * **Die wievielte Nutzerkopie dieser Datei ist es, wenn es eine ist?**
+  * **Welchen Urheberrechts- und Lizenzstatus hat die Datei?** Neben unseren eigenen Lizenzen können den Dateien auch die Lizenzen von Creative Commons versehen werden. Weitere Informationen zu den Auswahlmöglichkeiten erhalten sie auf der Seite [**Lizenzen**](/ressourcen/lizenzen/)
   * **Soll die Datei öffentlich angezeigt werden oder nicht?**
   * Zudem wird **automatisch ausgelesen, wie groß die Datei ist, zu welchem Dateityp sie gehört und wann sie zuletzt verändert wurde**.
 
@@ -438,19 +441,18 @@ Dies sind die Pflichtangaben, um ein Digitales Objekt erfassen zu können:
 | Dateipfad | File Path | 1 | Der Dateipfad der Datei im Digi-Kunst.nrw-Erfassungsportal |
 | Entstehung | Genesis | 1 | Eine Auswahl zwischen "born digital" oder "Retrodigitalisat" |
 | Medientyp | Media Type | 1 | Eine Auswahl zwischen "3D", "Audio", "Bild", "Code", "Text" oder "Video" |
-| Objekttyp | Object Type | 0-1 | Ein Schlagwort aus der Wikidata, z. B. "Poster", "Trailer" oder "Kanal" |
 | Dateipaket | File Package | 0/1 | Entweder keine Auswahl oder "ja" |
 | Systemvoraussetzungen	| System Requirements | [1 für "Code"] | Pflicht wenn für eine Datei der Medientyp "Code" ausgewählt wurde |
 | Erhaltungstyp | Preservation Type | 1 | Entweder "Preservation Master", "Modified Master" oder "Derivative Copy (Nutzerformat)" |
 | Derivatkopie-Nummer | Derivative Copy Number | [1 wenn "Derivative Copy (Nutzerformat)] | Bei einer Nutzerkopie muss angegeben werden, um die wievielte Kopie es sich handelt. |		
 | Lizenzstatus | License State | 1 | Der Lizenzstatus einer Datei aus der Entität "Digitales-Objekt-Lizenz". Einer Lizenz ist auch immer ein Urheberrechtsstatus zugeordnet | 
 | Anzeigestatus	| Display State | 1 | Regelt, ob die Datei ohne vorherige Anmeldung später frei angezeigt werden wird |
-| KHM-Internetfreigabestufe | KHM Internet Clearance Level | 0-1 | Ein Sonderfeld für KHM-Dateien, das angibt, ob die entsprechende Datei bereits auf der Seite des KHM-Archivs öffentlich angezeigt wird |
 
-Neben diesen Pflichtangaben gibt es noch eine Reihe von optionalen, deskriptiven Feldern:
+Neben diesen Pflichtangaben gibt es noch eine Reihe von optionalen, hauptsächlich deskriptiven Feldern:
 
 | Deutscher Feldname | Englischer Feldname | Kardinalität | Kommentar |
 | ------------- | ------------- | ------------- | ------------- |
+| Objekttyp | Object Type | 0-1 | Ein Schlagwort aus der Wikidata, z. B. "Poster", "Trailer" oder "Kanal" |
 | Deutsche inhaltliche Beschreibung | German Description | 0-1 | Freitext |
 | Englische inhaltliche Beschreibung | English Description | 0-1 | Freitext. Es wird darauf hingewiesen, wenn möglich beide Felder auszufüllen.|
 | Deutscher Kommentar | German Commentary | 0-1 | Freitext|
@@ -470,7 +472,7 @@ Neben diesen Pflichtangaben gibt es noch eine Reihe von optionalen, deskriptiven
 | Teil einer Serie | Part of a Series | 0/1 | |
 | wird im Loop abgespielt | plays in Loop | 0/1 | |
 | EQ | EQ | 0-1 | |
-
+| KHM-Internetfreigabestufe | KHM Internet Clearance Level | 0-1 | Ein Sonderfeld für KHM-Dateien, das angibt, ob die entsprechende Datei bereits auf der Seite des KHM-Archivs öffentlich angezeigt wird |
 
 
 Mit folgenden Programmen wird außerdem eine Vielzahl von technischen Metadaten der Datei ausgelesen. Hierzu verwendet unser System: [JHOVE](https://jhove.openpreservation.org/), [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/), [MediaInfo](https://mediaarea.net/de/MediaInfo) und [ExifTool](https://exiftool.org/). Der Output dieser Tools wird in Gänze gespeichert. Einige Informationen aus diesem technischen Metadaten werden zusätzlich herausgezogen und in eigenen Feldern angezeigt:
@@ -621,7 +623,7 @@ Die folgenden Listen zeigen, welche Verbindungen angelegt werden können.
 
 ## Sammlungen
 
-Über Sammlungen können Zusammengehörigkeiten bei den einliefernden Institutionen erfasst werden bzw. eine gemeinsame Provenienz. Beispiele: Tonträger aus dem Bandarchiv der HfMT Köln, Fotografien aus dem Fotoarchiv der Folkwang Universität der Künste, Equipment aus dem Technikarchiv der Kunsthochschule für Medien Köln, aber auch Veranstaltungen aus einer Reihe etc.
+Über Sammlungen können Zusammengehörigkeiten bei den einliefernden Institutionen erfasst werden bzw. eine gemeinsame Provenienz. Beispiele: Tonträger aus dem Bandarchiv der HfMT Köln, Fotografien aus dem Fotoarchiv der Folkwang Universität der Künste, Equipment aus dem Technikarchiv der Kunsthochschule für Medien Köln, aber auch Veranstaltungen aus einer Reihe, etc.
 
 
 <pre class="mermaid">

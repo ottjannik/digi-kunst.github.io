@@ -298,10 +298,10 @@ Die folgende Tabelle, zeigt, welche Attribute für **Akteur:innen** benutzt werd
 | Interner Kommentar | Internal Commentary | 0-1 | Ein Team-interner Kommentar |           
 | Beruf und Tätigkeit | Profession and Activity | 0-u | Eine oder mehrere feste Rollen aus der entsprechenden Entität (s. u.)|
 | OrcID | OrcID | 0-1 | Ein Orcid-Identifier der Person |
-| GND-ID | GND Link | 0-1 | Link zu einem GND-Normdatensatz zur Akteur:in |
-| VIAF-ID | VIAF Link | 0-1 | Link zu einem VIAF-Normdatensatz zur Akteur:in |
-| LCCN-ID | LCCN Link | 0-1 | Link zu einem Normdatensatz zur Akteur:in in der Library of Congress Authority File |
-| Wikidata-ID | Wikidata Link | 0-1 | Link zu einem Wikidata-Satz zur Akteur:in |
+| GND-ID | GND ID | 0-1 | Link zu einem GND-Normdatensatz zur Akteur:in |
+| VIAF-ID | VIAF ID | 0-1 | Link zu einem VIAF-Normdatensatz zur Akteur:in |
+| LCCN-ID | LCCN ID | 0-1 | Link zu einem Normdatensatz zur Akteur:in in der Library of Congress Authority File |
+| Wikidata-ID | Wikidata ID | 0-1 | Link zu einem Wikidata-Satz zur Akteur:in |
 | Andere Normdaten | Other Authority Files | 0-u | Weitere Normdatenlinks |
 | Link zur Webseite der Akteur:in | Link to Actor Page | 0-u | Links zu externen Webseiten der Akteur:innen |
 | Kontakt (E-Mail) | Contact (E-Mail) | 0-u | Eine oder mehrere mögliche Kontaktemails. Diese werden nicht mit in die Langzeitverfügbarkeit überführt. |

@@ -84,7 +84,7 @@ flowchart TB;
 
 Projektkategorien geben die Kunstgattung oder das Genre eines Projekts an. Dafür verwenden wir eine selbst erstellte Taxonomie, in der die Kategorien in einem hierarchischen Kontext abgebildet werden. Beispiel: Für ein Projekt wurde die Projektkategorie „Industrial Design“ vergeben. In unserem System taucht diese Projektkategorie dann wie folgt auf:
 
-<div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span>/<span style="color: blue">Design</span>/<span style="color: blue">Industrial Design</span></div>
+<div style="width: fit-content; margin-left: auto; margin-right: auto; margin-bottom: 4%; border: 1px solid black; padding: 10px;"><span style="color: blue">Angewandte Kunst</span> / <span style="color: blue">Design</span> / <span style="color: blue">Industrial Design</span></div>
 
 Alle drei Kategorien werden dem Projekt zugeordnet, so dass sich dieses dann auch z. B. unter dem Begriff "Angewandte Kunst" wiederfindet. Zusätzlich sind die Kategorien mit Synonymen angereichert, um eine bessere Auffindbarkeit zu gewährleisten.  
 Es können beliebig viele Kategorien zu einem Projekt vergeben werden, was es ermöglicht, auch Projekte zu beschreiben, die nicht eindeutig in nur eine Kategorie fallen. Einen Überblick, mit welchen Kategorien Digi-Kunst.nrw gestartet ist, lässt sich in der Liste unserer [Projektkategorien](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/projektkategorien) finden.  

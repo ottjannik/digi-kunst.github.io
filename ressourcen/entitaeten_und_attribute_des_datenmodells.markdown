@@ -98,12 +98,12 @@ Die Verzeichnung der Schlagwörter erfolgt über [Wikidata](https://www.wikidata
 Dieses System der Verschlagwortung über Wikidata findet überall dort Verwendung, wo Schlagwort-ähnliche Einträge gemacht werden können. Neben dem Projekt sind dies Physisches Objekt, Digitales Objekt und Informationsträger.
 
 <figure>
-<img src="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_1.png" alt="Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung." title="Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung.">
+<a href="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_1.png"><img src="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_1.png" alt="Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung." title="Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung."></a>
 <figcaption>Wikidata wird nach einem Begriff durchsucht. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_2.png" alt="Wichtige Attribute werden aus Wikidata ausgelesen und im System gespeichert." title="Wichtige Attribute werden aus Wikidata ausgelesen und im System gespeichert.">
+<a href="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_2.png"><img src="/assets/images/Erfassungs-Backend_Schlagwort_anlegen_2.png" alt="Wichtige Attribute werden aus Wikidata ausgelesen und im System gespeichert." title="Wichtige Attribute werden aus Wikidata ausgelesen und im System gespeichert."></a>
 <figcaption>Wichtige Attribute werden aus Wikidata ausgelesen und im System gespeichert.</figcaption>
 </figure>
 
@@ -245,12 +245,12 @@ flowchart TB;
 Orte werden ähnlich wie Schlagwörter über Wikidata referenziert. Bei Orten wird im Hintergrund eine komplexe Abfrage gestellt, die alle übergeordneten Orte findet. Die Orts-Abfrage ist damit in der Lage, einen eingegebenen Ort direkt in seinen geografischen Kontext zu setzen. Orte werden dabei in 6 Hierarchieebenen erfasst: **Kontinent** > **Land** > **Region** > **Stadt** > **Genauer Ort** > **Interner Ort**.
 
 <figure>
-<img src="/assets/images/Erfassungs-Backend_Ort_anlegen_1.PNG" alt="Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung." title="Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung.">
+<a href="/assets/images/Erfassungs-Backend_Ort_anlegen_1.PNG"><img src="/assets/images/Erfassungs-Backend_Ort_anlegen_1.PNG" alt="Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung." title="Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung."></a>
 <figcaption>Über eine Wikidata-Suche kann ein Ort gesucht werden. Das System liefert einen Treffer und seine bei Wikidata hinterlegte Beschreibung.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/images/Erfassungs-Backend_Ort_anlegen_2.PNG" alt="Der Ort wurde angelegt. Seine Attribute wurden aus Wikidata ausgelesen und im System gespeichert." title="Der Ort wurde angelegt. Seine Attribute wurden aus Wikidata ausgelesen und im System gespeichert.">
+<a href="/assets/images/Erfassungs-Backend_Ort_anlegen_2.PNG"><img src="/assets/images/Erfassungs-Backend_Ort_anlegen_2.PNG" alt="Der Ort wurde angelegt. Seine Attribute wurden aus Wikidata ausgelesen und im System gespeichert." title="Der Ort wurde angelegt. Seine Attribute wurden aus Wikidata ausgelesen und im System gespeichert."></a>
 <figcaption>Der Ort wurde angelegt. Seine Attribute wurden aus Wikidata ausgelesen und im System gespeichert.</figcaption>
 </figure>
 

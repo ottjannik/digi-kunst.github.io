@@ -68,20 +68,20 @@ Fon: +49 221 20 189 171
 
 ## Entwicklungs-Team
 
-**Michael Lönhardt**  
+**Dr. Lutz Schubert**  
 Universität zu Köln  
-Fon: +49 221 4708 9605  
-[loenhardt@uni-koeln.de](mailto:loenhardt@uni-koeln.de)
+Fon: +49 221 4708 9685   
+[schubert@uni-koeln.de](mailto:schubert@uni-koeln.de)
 
 **Dr. Robert Kummer**  
 Universität zu Köln  
 Fon: +49 221 4708 9553  
 [rkummer0@uni-koeln.de](mailto:rkummer0@uni-koeln.de)
 
-**Christoph Stollwerk**  
+**Thomas Baur**  
 Universität zu Köln  
-Fon: +49 221 47089634  
-[stollwerk@uni-koeln.de](mailto:stollwerk@uni-koeln.de)
+Fon: +49 221 4708 9605
+[tbaur3@uni-koeln.de](mailto:tbaur3@uni-koeln.de)
 
 **René Trost**  
 Universität zu Köln  

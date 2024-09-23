@@ -56,7 +56,7 @@ Zusätzlich können noch beliebig viele alternative Titel angelegt werden. Es is
 
 ## Projekt: Beschreibungen & Kommentare
 
-Ein Projekt muss mindestens eine und kann beliebig viele Beschreibungen haben. Folglich ist das Feld „Beschreibung“ in unserer [Datenmodell-Tabelle](https://christiansievers.github.io/site-test/technische-dokumentation/datenmodell.html#tabelle) mit der Kardinalität „1-u[nendlich]“ gekennzeichnet. Die Beschreibung ist meistens ein von dem/der Autor:in des Projekts verfasster Text, kann aber auch von Dritten verfasst worden sein. Ähnlich wie Titel haben Beschreibungen eine Sprachauszeichnung. Sie können innerhalb eines Projekts nach ihrer Wertigkeit sortiert werden.
+Ein Projekt muss mindestens eine und kann beliebig viele Beschreibungen haben. Folglich ist das Feld „Beschreibung“ in unserer [Datenmodell-Tabelle](/technische-dokumentation/datenmodell#tabelle) mit der Kardinalität „1-u[nendlich]“ gekennzeichnet. Die Beschreibung ist meistens ein von dem/der Autor:in des Projekts verfasster Text, kann aber auch von Dritten verfasst worden sein. Ähnlich wie Titel haben Beschreibungen eine Sprachauszeichnung. Sie können innerhalb eines Projekts nach ihrer Wertigkeit sortiert werden.
 
 <pre class="mermaid">
 flowchart TB;

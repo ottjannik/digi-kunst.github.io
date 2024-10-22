@@ -80,7 +80,7 @@ Fon: +49 221 4708 9553
 
 **Thomas Baur**  
 Universität zu Köln  
-Fon: +49 221 4708 9605
+Fon: +49 221 4708 9605  
 [tbaur3@uni-koeln.de](mailto:tbaur3@uni-koeln.de)
 
 **René Trost**  

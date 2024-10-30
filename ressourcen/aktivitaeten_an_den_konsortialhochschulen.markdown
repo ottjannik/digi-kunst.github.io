@@ -1,7 +1,7 @@
 ---
 layout: digi-kunst-docs
 title: Aktivitäten an den Konsortialhochschulen
-order: 2.4
+order: 2.1
 ---
 
 Die folgende Auswahl gibt an, welche Datenquellen an den Hochschulen zur Zeit prioritär für die Einlieferung nach Digi-Kunst.nrw strukturiert und angereichert werden.

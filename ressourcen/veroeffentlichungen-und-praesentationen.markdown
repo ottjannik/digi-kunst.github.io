@@ -1,7 +1,7 @@
 ---
 layout: digi-kunst-docs
 title: Veröffentlichungen und Präsentationen
-order: 2.3
+order: 2.5
 ---
 
 * **Abschlussbericht des Vorprojekts**  

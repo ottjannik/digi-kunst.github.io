@@ -73,11 +73,6 @@ Universität zu Köln
 Fon: +49 221 4708 9685   
 [schubert@uni-koeln.de](mailto:schubert@uni-koeln.de)
 
-**Dr. Robert Kummer**  
-Universität zu Köln  
-Fon: +49 221 4708 9553  
-[rkummer0@uni-koeln.de](mailto:rkummer0@uni-koeln.de)
-
 **Thomas Baur**  
 Universität zu Köln  
 Fon: +49 221 4708 9605  

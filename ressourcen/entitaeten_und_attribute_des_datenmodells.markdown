@@ -439,7 +439,7 @@ Dies sind die Pflichtangaben, um ein Digitales Objekt erfassen zu können:
 | MIME Type | MIME Type | 1 | Der automatisch ausgelesene Dateityp der Datei |
 | Datei-Änderungsdatum | File Modification Date	| 1 | Das automatisch ausgelesene letzte Änderungsdatum der Datei |
 | Dateipfad | File Path | 1 | Der Dateipfad der Datei im Digi-Kunst.nrw-Erfassungsportal |
-| Entstehung | Genesis | 1 | Eine Auswahl zwischen "born digital" oder "Retrodigitalisat" |
+| Entstehung | Genesis | 0-1 | Eine Auswahl zwischen "born digital" oder "Retrodigitalisat"; optional da die Entstehung bei alten Beständen oft nicht mehr festgestellt werden kann |
 | Medientyp | Media Type | 1 | Eine Auswahl zwischen "3D", "Audio", "Bild", "Code", "Text" oder "Video" |
 | Dateipaket | File Package | 0/1 | Entweder keine Auswahl oder "ja" |
 | Systemvoraussetzungen	| System Requirements | [1 für "Code"] | Pflicht wenn für eine Datei der Medientyp "Code" ausgewählt wurde |

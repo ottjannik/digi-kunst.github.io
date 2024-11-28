@@ -16,7 +16,7 @@ Unsere Empfehlungen zu Definitionen und Grundsätzen, gedacht als Unterstützung
 * **Artikel in der Fachzeitschrift „Forum Musikbibliothek“**  
 <sub>Veröffentlicht: August 2023</sub>  
 In der Ausgabe 3/2023 ist der Artikel „Digi-Kunst.nrw – ein Portal für die Kunst- und
-Musikhochschulen des Landes Nordrhein-Westfalen“ erschienen. Ab Herbst 2024 wird der Artikel frei im [Archiv des Forums Musikbibliothek](https://journals.qucosa.de/fmb/issue/archive) zugänglich sein.
+Musikhochschulen des Landes Nordrhein-Westfalen“ erschienen. Ende 2024 wird der Artikel frei im [Archiv des Forums Musikbibliothek](https://journals.qucosa.de/fmb/issue/archive) zugänglich sein.
 
 * **Präsentation bei der NFDI4Culture**  
 <sub>September 2023</sub>  
@@ -27,3 +27,10 @@ Vorstellung des Projekts im Rahmen der NFDI4Culture-Konferenz [„PERFORMANCE �
 <sub>April 2024</sub>  
 Vorstellung des Projekts im [Netzwerk „Austausch Digital Assets“](https://hfg-karlsruhe.de/forschung-und-entwicklung/orc/auda/).  
 [<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> 2024-04-08_auda-netzwerk_praesentation.pdf](/assets/documents/2024-04-08_auda-netzwerk_praesentation.pdf) (533 KB)
+
+* **Präsentation bei No Time to Wait 8, ZKM Karlsruhe**  
+<sub>September 2024</sub>  
+"Data Modelling an Archive for All Art Genres", Vortrag in englischer Sprache auf der [NTTW8 Konferenz](https://mediaarea.net/NoTimeToWait8). Auf YouTube findet sich eine [Aufzeichnung (ab 02:45h)](https://www.youtube.com/watch?v=QDCFl79PV_M&t=9905s) .
+[<svg class="download-icon" xmlns="https://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/></svg> 2024-09_12_Digi-Kunst_NTTW8.pdf](/assets/documents/2024-09_12_Digi-Kunst_NTTW8.pdf) (513 KB)
+
+

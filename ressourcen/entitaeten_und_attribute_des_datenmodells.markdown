@@ -341,8 +341,8 @@ In einem Ereignis können verschiedene Arten von Equipment & Software zum Einsat
 
 ## Ereignis: Physische Objekte
 
-Die Entität „Physische Objekte“ beschreibt körperliche Bestandteile und Materialien, die Teil eines Projekts sind, z. B. ihre Beschaffenheit oder welche Technik zur Herstellung verwendet wurde.  
-In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. Dasselbe Physische Objekt kann in vielen Projekten vorkommen.
+Die Entität „Physische Objekte“ beschreibt Objekte, die in Ereignissen entstanden sind oder verwendet wurden, z.B. eine Skulptur, ein Foto-Print, eine Malerei oder ein Buch.
+In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. Dasselbe Physische Objekt kann in vielen Ereignissen vorkommen.
 
 | Deutscher Feldname | Englischer Feldname | Kardinalität | Kommentar |
 | ------------- | ------------- | ------------- | ------------- |
@@ -370,7 +370,7 @@ In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. D
 
 ## Ereignis: Informationsträger
 
-Informationsträger sind materielle Datenträger oder Trägermedien, die digitalisiert wurden oder eine andere Rolle im Ereignis spielen, wie z. B. eine Schallplatte, eine Diskette, ein Tonband oder eine Festplatte. Informationsträger werden durch [die Informationsträgertypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/informationstraegertypen) kategorisiert. 
+Informationsträger sind materielle Datenträger oder Trägermedien, die digitalisiert wurden oder eine andere Rolle im Ereignis spielen, wie z. B. eine Schallplatte, eine Diskette, ein Tonband oder ein VHS-Band. Informationsträger werden durch [die Informationsträgertypen](/technische-dokumentation/kontrollierte-vokabulare-und-taxonomien/informationstraegertypen) kategorisiert. 
 
 Anmerkung für die Erfassung: Diese Entität sollte benutzt werden, wenn:
 1. Ein Projekt Retrodigitalisierung beinhaltet und das analoge Original weiterhin wichtig ist,

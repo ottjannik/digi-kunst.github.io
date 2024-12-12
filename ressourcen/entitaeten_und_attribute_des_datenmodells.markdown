@@ -318,8 +318,9 @@ flowchart TB;
     style AkteurIn fill:#F0F8FF, stroke:#000000;
 </pre>
 
-Die beiden Felder „steuert 'ist Urheberin'“ und „steuert 'besitzt Leistungsschutzrechte'“ finden sich, ähnlich wie „Rolle“ zwischen Akteur:in und Ereignis. Ein:e Akteur:in kann in einem Ereignis Urheber:in sein, im nächsten nicht, in einem anderen kann ein:e Akteur:in Leistungsschutzrechte besitzen, im anderen nicht. Zusammen mit einer Rolle ist eine Vorauswahl gespeichert, ob ein:e Akteur:in wahrscheinlich solche Rechte besitzt. Ist ein:e Akteur:in beispielsweise „Komponist:in“ in einem Ereignis, dann ist sie mit großer Wahrscheinlichkeit auch „Urheber:in“ des Projekts. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungssschutzrechte. Letztlich bestimmt aber die eingebende Person, ob diese Vorauswahl zutrifft oder nicht.  
-Zusätzlich kann angegeben werden, ob nur vermutet wird, dass ein:e Akteur:in in einem Ereignis mitgewirkt hat. Für diesen Fall gibt es das Feld „Ungesicherte Zuschreibung“.
+Zusätzlich lässt sich angeben, ob ein:e Akteur:in aufgrund einer Rolle Urheberrechte und/oder Leistungsschutzrechte besitzt. Bestimmte Rollen führen in vielen Fällen automatisch zu Urheber- und Leistungsschutzrechten der Akteur:innen. Ist eine Person beispielsweise „Komponist:in“ oder "Künstler:in" in einem Ereignis, dann besitzt sie mit großer Wahrscheinlichkeit Urheberrechte am Projekt. Ist ein:e Akteur:in „Produzent:in“ eines Films, besitzt sie wahrscheinlich Leistungsschutzrechte. Die Taxonomie der Rollen bietet eine Vorauswahl, die angibt, bei welchen Rollen solche Rechte üblicherweise vorhanden sind. Dies entbindet nicht von der Pflicht, individuell zu prüfen, welche Angaben zutreffen.
+
+Weiterhin kann angegeben werden, ob nur vermutet wird, dass ein:e Akteur:in in einem Ereignis mitgewirkt hat. Für diesen Fall gibt es das Feld „Ungesicherte Zuschreibung“.
 
 ----
 
@@ -341,7 +342,7 @@ In einem Ereignis können verschiedene Arten von Equipment & Software zum Einsat
 
 ## Ereignis: Physische Objekte
 
-Die Entität „Physische Objekte“ beschreibt Objekte, die in Ereignissen entstanden sind oder verwendet wurden, z.B. eine Skulptur, ein Foto-Print, eine Malerei oder ein Buch.
+Die Entität „Physische Objekte“ beschreibt Objekte und Materialien, die in Ereignissen entstanden sind oder verwendet wurden, z.B. eine Skulptur, ein Foto-Print, eine Malerei oder ein Buch.
 In einem Ereignis können beliebig viele Physische Objekte beschrieben werden. Dasselbe Physische Objekt kann in vielen Ereignissen vorkommen.
 
 | Deutscher Feldname | Englischer Feldname | Kardinalität | Kommentar |
